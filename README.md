@@ -1,4 +1,4 @@
-start projeto docker-compose up -d --build
+start projeto docker-compose up -d
 
 stop projeto docker-compose stop
 
